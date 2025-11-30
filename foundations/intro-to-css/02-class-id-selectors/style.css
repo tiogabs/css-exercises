@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.odds {
+    background-color: rgb(255, 167, 167);
+    font-style: Verdana, DejaVu Sans, sans-serif;
+}
+
+#big-blues {
+    color: blue;
+    font-size: 36px;
+}
+
+.fs24 {
+    font-size: 24px;
+}
+
+#fat-green {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;;
+}
